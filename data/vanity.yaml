@@ -1,7 +1,21 @@
-# Example vanity.yaml
-
-host: gomodules.xyz
+host: go.wandrs.dev
 
 paths:
-  /sync:
-    repo: https://github.com/gomodules/sync
+  /framework:
+    repo: https://github.com/wandrs/gitea
+  /sdk:
+    repo: https://github.com/wandrs/go-sdk
+  /binding:
+    repo: https://github.com/wandrs/binding
+  /cache:
+    repo: https://github.com/wandrs/cache
+  /captcha:
+    repo: https://github.com/wandrs/captcha
+  /session:
+    repo: https://github.com/wandrs/session
+  /inject:
+    repo: https://github.com/wandrs/inject
+  /http:
+    repo: https://github.com/wandrs/http
+  /middlewares:
+    repo: https://github.com/wandrs/middlewares
