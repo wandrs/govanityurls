@@ -17,5 +17,7 @@ paths:
     repo: https://github.com/wandrs/inject
   /http:
     repo: https://github.com/wandrs/http
+  /macaron-embed:
+    repo: https://github.com/wandrs/macaron-embed
   /middlewares:
     repo: https://github.com/wandrs/middlewares
