@@ -21,3 +21,5 @@ paths:
     repo: https://github.com/wandrs/macaron-embed
   /middlewares:
     repo: https://github.com/wandrs/middlewares
+  /csrf:
+    repo: https://github.com/wandrs/csrf
